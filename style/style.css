@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.header{
+    height: 100px;
+
+}
+.content{
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.header p2{
+    font-size: 20pt;
+    padding-left: 70px;
+    padding-top: 11px;
+    display: block;
+}
+.form{
+width: 900px;
+    border: 1px solid black;
+    text-align: center;
+}
+.form2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.form2 .t{
+    width: 300px;
+    border-left: 0px;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 0.5px solid black;
+}
+.t:focus{
+    border-bottom: 2px solid rgba(28,194,255,0.93);
+}
