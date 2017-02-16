@@ -8,7 +8,8 @@
 }
 .header{
     height: 50px;
-
+    display: flex;
+    justify-content: center;
 }
 .content{
 
@@ -16,12 +17,17 @@
     display: flex;
     justify-content: center;
 }
+.hed{
+    width: 900px;
+}
 .header p2{
     font-size: 17pt;
-    padding-left: 280px;
     padding-top: 11px;
     display: block;
+    width: 220px;
+    text-align: right;
     font-weight: bold;
+
 }
 .form{
     width: 900px;
