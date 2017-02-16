@@ -21,11 +21,11 @@
     padding-left: 280px;
     padding-top: 11px;
     display: block;
-   font-weight: bold;
+    font-weight: bold;
 }
 .form{
-width: 900px;
-   /* border: 1px solid black;*/
+    width: 900px;
+    /* border: 1px solid black;*/
     /*text-align: center;*/
 }
 .form2{
@@ -57,9 +57,9 @@ width: 900px;
 
  }
 .form2 #check{
-     margin-left: 293px;
+    margin-left: 293px;
     text-align: center;
- }
+}
 #gender{
     width: 255px;
     margin-left: 290px;
@@ -68,29 +68,29 @@ width: 900px;
 .f{
     width: 225px;
 }
- .submit{
+.submit{
 
     margin-left: 390px;
- }
- #gender{
-     width: 200px}
+}
+#gender{
+    width: 200px}
 
- .first{
-     display: block;
-     float: left;
-     width: 280px;
-     text-align: right;
- }
- .first2{
-     display: block;
-     float: left;
-     width: 280px;
-     text-align: right;
- }
- .count{
-     width: 254px;
-     margin-left: 10px;
- }
+.first{
+    display: block;
+    float: left;
+    width: 280px;
+    text-align: right;
+}
+.first2{
+    display: block;
+    float: left;
+    width: 280px;
+    text-align: right;
+}
+.count{
+    width: 254px;
+    margin-left: 10px;
+}
 .form2 #comment{
     max-width: 250px;
 }
